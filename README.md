@@ -1,4 +1,4 @@
-# token-manager
+# Token Manager / d34fr
 Gère tout tes tokens avec 1 seul bot ! (Token de bot)
 
 -------
