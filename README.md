@@ -11,10 +11,10 @@ npm install discord.js
 
 ## Remplie le config.json
 
-  "token": "Le Token de ton Bot Discord",
-  "clientId": "L'ID de ton bot",
-  "guildId": "L'ID ou tu executera les commandes",
-  "statusText": "STatut du Bot", (pas obligatoire)
+  "token": "Le Token de ton Bot Discord"
+  "clientId": "L'ID de ton bot"
+  "guildId": "L'ID ou tu executera les commandes"
+  "statusText": "STatut du Bot"
   "streamUrl": "https://twitch.tv/d34fr" (Redirection twitch pas obligatoire)
 
 
